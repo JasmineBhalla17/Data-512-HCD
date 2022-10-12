@@ -22,23 +22,22 @@ As this project falls under 'Data-512-HCD' repo that has been granted the Creati
       - **Fewest Months of Data** showing the pages that have the fewest months of available data for desktop and mobile access types. 
       
 ### Repo Walkthrough:
-$ ./tree-md .
 # Project tree
-.homework_1
- * [README.md](./README.md) 
- * [datafiles](./datafiles)
-   * [dino_clean (1).csv](./datafiles/dino_clean%20(1).csv)
- * [Codes](./Codes)
-   * [dataprocessing.ipynb](./Codes/dataprocessing.ipynb)
-   * [Analysis.ipynb](./Codes/Analysis.ipynb)
- * [JSON_files](./JSON_files)
-    * [dino_monthly_cumulative_201507-202209.json](./JSON_files/dino_monthly_cumulative_201507-202209.json)
-    * [dino_monthly_desktop_201507-202209.json](./JSON_files/dino_monthly_desktop_201507-202209.json)
-    * [dino_monthly_mobile_201507-202209.json](./JSON_files/dino_monthly_mobile_201507-202209.json)
- * [plots](./plots)
-    * [Max_Min_Avg.png](./plots/Max_Min_Avg.png)
-    * [Top10fewest_plot.png](./plots/Top10fewest_plot.png)
-    * [Top_10_Peaks_Mobile_Desktop.png](./plots/Top_10_Peaks_Mobile_Desktop.png)
+/homework_1
+   * [README.md](./README.md) 
+   * [datafiles](./datafiles)
+     * [dino_clean (1).csv](./datafiles/dino_clean%20(1).csv)
+   * [Codes](./Codes)
+     * [dataprocessing.ipynb](./Codes/dataprocessing.ipynb)
+     * [Analysis.ipynb](./Codes/Analysis.ipynb)
+   * [JSON_files](./JSON_files)
+      * [dino_monthly_cumulative_201507-202209.json](./JSON_files/dino_monthly_cumulative_201507-202209.json)
+      * [dino_monthly_desktop_201507-202209.json](./JSON_files/dino_monthly_desktop_201507-202209.json)
+      * [dino_monthly_mobile_201507-202209.json](./JSON_files/dino_monthly_mobile_201507-202209.json)
+   * [plots](./plots)
+      * [Max_Min_Avg.png](./plots/Max_Min_Avg.png)
+      * [Top10fewest_plot.png](./plots/Top10fewest_plot.png)
+      * [Top_10_Peaks_Mobile_Desktop.png](./plots/Top_10_Peaks_Mobile_Desktop.png)
   
 
 
