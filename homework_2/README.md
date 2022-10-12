@@ -8,7 +8,7 @@ The goal of this assignment is to explore the concept of bias in data by analyzi
 - A ranking of geographic regions by articles-per-person and proportion of high quality articles.
 
 
-#### Overview of the Analysis Performed:
+#### Overview of the Steps Involved:
 
 **A. Data Acquisition and Processing:**
 - For this project, we combine a dataset of Wikipedia articles (on politicians) with dataset of country's population and use a Machine Learning service called [ORES](https://www.mediawiki.org/wiki/ORES) to estimate the **quality score** of each article as per the article's quality classes (from best to worst) below:
@@ -26,7 +26,7 @@ The goal of this assignment is to explore the concept of bias in data by analyzi
 **Insert image here**
 
 
-**B. Analysis*:**
+**B. Analysis:**
 
 - The entire analysis is on a country-by-country and regional basis with per capita values.
 
@@ -34,9 +34,6 @@ The goal of this assignment is to explore the concept of bias in data by analyzi
 **C. Results:**
 
   
-
-
-
 
 
 
