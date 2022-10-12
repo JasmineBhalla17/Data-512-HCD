@@ -24,13 +24,13 @@ As this project falls under 'Data-512-HCD' repo that has been granted the Creati
 ### Repo Walkthrough:
 $ ./tree-md .
 # Project tree
-.
+.homework_1
  * [README.md](./README.md) 
  * [datafiles](./datafiles)
    * [dino_clean (1).csv](./datafiles/dino_clean%20(1).csv)
  * [Codes](./Codes)
-   * [dataprep.ipynb](./dir1/file11.ext)
-   * [file12.ext](./dir1/file12.ext)
+   * [dataprocessing.ipynb](./Codes/dataprocessing.ipynb)
+   * [Analysis.ipynb](./Codes/Analysis.ipynb)
  * [JSON_files](./JSON_files)
     * [dino_monthly_cumulative_201507-202209.json](./JSON_files/dino_monthly_cumulative_201507-202209.json)
     * [dino_monthly_desktop_201507-202209.json](./JSON_files/dino_monthly_desktop_201507-202209.json)
