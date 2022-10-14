@@ -13,7 +13,7 @@ General Purpose: json, time, urllib.parse, requests <br>
 Data Manipulation: pandas <br>
 
 #### Repo Walkthrough:
-# Project tree
+##### Project tree
 /homework_2
    * [README.md](./README.md) 
    * [LICENSE](./LICENSE)
