@@ -9,8 +9,8 @@ The goal of this assignment is to explore the concept of bias in data by analyzi
 
 
 #### Python Packages Used
-General Purpose: json, time, urllib.parse, requests
-Data Manipulation: pandas
+General Purpose: json, time, urllib.parse, requests <br>
+Data Manipulation: pandas <br>
 
 #### Repo Walkthrough:
 # Project tree
