@@ -8,9 +8,9 @@ During the last three years we all have been experiencing a global pandemic. Thi
 
 **Data Sources:**
 
-- [John Hopkins University COVID-19 data] (https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university)
-- [Masking Mandates by County] (https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i)
-- [Mask Compliance Survey] (https://github.com/nytimes/covid-19-data/tree/master/mask-use)
+- [John Hopkins University COVID-19 data](https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university)
+- [Masking Mandates by County](https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i)
+- [Mask Compliance Survey](https://github.com/nytimes/covid-19-data/tree/master/mask-use)
 
 **Input Data Files:** 
 - Data/RAW_us_confirmed_cases.csv
