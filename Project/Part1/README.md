@@ -39,7 +39,7 @@ During the last three years we all have been experiencing a global pandemic. Thi
       * [Total_Confirmed_cases.png](./Visualizations/Total_Confirmed_cases.png)
       * [change_point_detection.png](./Visualizations/change_point_detection.png)
       
-** Final Visualization **
+**Final Visualization:**
  Since the Shelby county data for Tennessee did not have face mandates data points in regards to date-series, we used the national CDC mask mandate timelines to analyze whether having the mask mandates had any impact on the trend of covid-19 cases that the county saw:
 
 ![Final Visualization](https://github.com/JasmineBhalla17/Data-512-HCD/blob/main/Project/Part1/Visualizations/Daily_cases_change_rate.png)
