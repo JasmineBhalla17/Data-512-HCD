@@ -44,7 +44,7 @@ During the last three years we all have been experiencing a global pandemic. Thi
 
 ![Final Visualization](https://github.com/JasmineBhalla17/Data-512-HCD/blob/main/Project/Part1/Visualizations/Daily_cases_change_rate.png)
 
-** Inference:**
+**Inference:**
 In this final visualization where we have included arbitrary dates from the government, I clearly see no link between masks being made mandatory and the number of cases. Here we have time on the x-axis while the case-rate changes on the y-axis and we have included the new time dimension with respect to the  national CDC mask guidelines. As the timelines do not confirm/align with the case rate pattern, we can clearly say that for our given county, there isn’t a very direct relationship between mask guidelines and the number of confirmed cases. 
 
 
