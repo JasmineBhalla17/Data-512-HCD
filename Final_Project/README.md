@@ -103,8 +103,11 @@ From the output of the linear regression model, we can see that there is a big d
 
 # Conclusion
 Through my analysis, I can conclude that the COVID-19 pandemic had an impact on the housing market in Shelby County. We can see that COVID-19 pandemic has impacted both supply and demand in the housing market. People wanted to take advantage of lower mortgage rates which in turn caused the demand for housing to go up- we see a lot of high and low bumps in the median sale price that indicates the anxiety and uncertainty in the housing market.
- 	However the pandemic also fueled a shortage in supply of homes - both newly built and those sold by existing owners. We can see a decline in housing inventory, number of new listings on the market as covid cases increased during the first quarter (Q1) of 2021. We see that with a sharp increase in the number of  covid cases, our KPIs except median sale price fall sharply. Thus we can conclude that an increased demand and a shortage in supply fueled the median sale price of the homes to go up throughout the pandemic.
+ 
+However the pandemic also fueled a shortage in supply of homes - both newly built and those sold by existing owners. We can see a decline in housing inventory, number of new listings on the market as covid cases increased during the first quarter (Q1) of 2021. We see that with a sharp increase in the number of  covid cases, our KPIs except median sale price fall sharply. Thus we can conclude that an increased demand and a shortage in supply fueled the median sale price of the homes to go up throughout the pandemic.
+
 In terms of mortgage interest rate, we see that they very closely follow the covid-19 trend, that is, the mortgage interest rates keep falling down and reach their lowest point during the Q1 of 2021. With the number of covid-19 cases going down, the mortgage interest rate starts coming up again.
+
 To conclude, this study informs the reader of their understanding of human centered data science as it is important to pay attention to this trend and for the government to take action. It is important to fix this gap between supply and demand by building more homes where people need it, otherwise this inequality will continue to skyrocket and a growing number of Americans will be shut out of the housing market altogether.
 
 # Limitations
