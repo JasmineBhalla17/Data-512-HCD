@@ -124,7 +124,6 @@ Future Work
 # License
   My research would be released under an MIT License and the data is all public domain.
 
-```
 # Libraries Used:
 1. pandas
 2. numpy
